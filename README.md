@@ -2,7 +2,7 @@
 
 
 ```
-Fecha: 5 y 6 de Junio de 2020
+Fecha: 11 y 12 de Junio de 2021
 Profesor: David Pestana
 Horas: 10
 ```
