@@ -2,9 +2,7 @@
 
 
 ```
-Fecha: 11 y 12 de Junio de 2021
 Profesor: David Pestana
-Horas: 10
 ```
 
 En esta unidad vamos a entender los conceptos fundamentales de la contenerización, aprenderemos a manipular y controlar lo que sucede dentro de nuestros contenedores, como interactuan los contenedores tanto entre si como con el sistema anfitrión.  Aprenderemos a construir imágenes a medida que cubran las necesidades o requisitos de cada proyecto.
